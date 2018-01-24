@@ -1,5 +1,11 @@
 *.iml
-target
-classes
-build
+*.ipr
+*.iws
+.DS_Store
+.env
+.gradle
 .idea
+build
+ci/variables.yml
+classes
+target
